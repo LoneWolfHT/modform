@@ -30,7 +30,7 @@ The history page lists records of your bans, kicks, and unbans
 
 ### Main Tab
 
-* Has a playerlist containing all of the players currently online. Staff are highlighted green. Problems:
+* Has a playerlist containing all of the players currently online. Problems:
 	* May not work if the join/leave messages on the server are not the same as the default ones
 	* Will not work if you do not see the contents of `/status` when you join
 	* May not work if the contents of `/status` are different from the default contents
@@ -41,7 +41,7 @@ The history page lists records of your bans, kicks, and unbans
 	* `Ban` - Brings up a formspec where you can ban players
 		* `Ban` (all ban mods) - Ban the chosen player
 		* `Playername` - The name of the player you are banning
-		* `Reason` (xban & sban) - The reason that will be shown to the playerr when they are banned
+		* `Reason` (xban & sban) - The reason that will be shown to the player when they are banned
 		* `Time` (xban & sban) - The amount of time the player will be banned for
 		* `Back` - Takes the user back to the main page
 		* You must type *yes* into the field before you can ban a player. This helps prevent accidental bans
