@@ -2,6 +2,8 @@
 
 Client Sided Mod to help with the moderation of servers. I've done my best to make sure nothing goes wrong when banning, kicking or revoking shout. But I could have missed something. Use this CSM with caution.
 
+# This probably doesn't work anymore since I don't moderate ingame as much as I used to and so have stopped working on this
+
 ## Features
 
 ### Settings tab where you can:
